@@ -150,6 +150,7 @@ def cristales_forja_controller(id_usuario, operacion):
     return respuesta, cantidad_necesaria, objeto_a_forjar, cantidad_objeto_a_forjar
 
 # TIENDA CONTROLLERS #
+# - - - WIP - - -
 
 def tienda_controller(id_usuario, nombre_objeto):
 

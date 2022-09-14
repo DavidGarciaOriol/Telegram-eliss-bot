@@ -1,1 +1,1 @@
-telegram_main.py
+py -3 telegram_main.py
